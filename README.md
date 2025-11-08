@@ -8,6 +8,6 @@ It uncovers trends in **industry activity, cross-border participation, and valua
 ## Key Insights
 - **847** announced between Jan–Sep 2025; activity peaked in **Q1**.
 - **Top sectors:** Technology 
-- **Cross-border share:** 53.2% %, led by buyers from **U.S., Switzerland, and U.K.**
+- **Cross-border share:** 53.2% %, led by buyers from **US, UK, and Sweden.**
 - **Highest EV/EBITDA multiples:** Healthcare  
 - **Median disclosed deal value:** $68.9 million
